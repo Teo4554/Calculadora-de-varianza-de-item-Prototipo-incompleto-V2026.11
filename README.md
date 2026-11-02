@@ -26,11 +26,11 @@ No se requieren librerías externas. Solo necesitas tener instalado **Python 3.x
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/nombre-del-repositorio.git
+   git clone https://github.com/teo4554/Calculadora-de-varianza-de-item-Prototipo-imcompleto-V2026.11.git
    ```
 2. Navega al directorio del proyecto:
    ```bash
-   cd nombre-del-repositorio
+   cd Calculadora-de-varianza-de-item-Prototipo-imcompleto-V2026.11
    ```
 
 ---
